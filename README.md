@@ -27,6 +27,7 @@ The goals / steps of this project are the following:
 [image14]: ./writeup_imgs/rotated.jpg "Rotated"
 [image15]: ./writeup_imgs/shifted.jpg "Shifted"
 
+Note: All the code is in the 'Traffic_Sign_Classifier.ipynb' notebook
 
 ### Data Set Summary & Exploration
 
