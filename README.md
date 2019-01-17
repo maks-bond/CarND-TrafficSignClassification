@@ -27,7 +27,8 @@ The goals / steps of this project are the following:
 [image14]: ./writeup_imgs/rotated.jpg "Rotated"
 [image15]: ./writeup_imgs/shifted.jpg "Shifted"
 
-Note: All the code is in the 'Traffic_Sign_Classifier.ipynb' notebook.  
+Note: All the code is in the 'Traffic_Sign_Classifier.ipynb' notebook.   
+HTML version of the notebook is 'Traffic_Sign_Classifier.html'.   
 The data wasn't loaded to github. The data was used form here: https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/traffic-signs-data.zip  
 
 ### Data Set Summary & Exploration
